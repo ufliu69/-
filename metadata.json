@@ -1,0 +1,6 @@
+{
+  "name": "FitAI Fitness & Boxing",
+  "description": "AI Calorie Tracker, Meal & Workout Plans (Bulking/Cutting/Boxing), Supplement/Hormone Protocol Advisor, Riyadh Cardio Spots, Focus Blocker, Bilingual AR/EN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
